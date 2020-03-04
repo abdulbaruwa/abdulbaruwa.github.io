@@ -8603,3 +8603,18 @@ a, .btn, img {
 
 .wrapper-gradient {
   background: transparent radial-gradient(circle farthest-side at right bottom, #ff9e4f 5%, #ec5d2f 25%, #dd5124 80%, #a32800 98%) repeat scroll 0% 0%; }
+
+  .platform-bar {
+    display: inline-block;
+    color: gray;
+    font-size: 11px;
+    text-align: center;
+    background: #e3e3e3;
+    padding: 5px 14px;
+    border-radius: 20px;
+    color: gray;
+    font-weight: 500;
+    top: -8px;
+    margin-top: 20px;
+    /* position: relative; */
+}
